@@ -7,7 +7,7 @@
 Так же изо всех сил стараюсь изучать <br />
 принципы: SOLID, DRY, KISS <br />
 шаблоны: Builder, Fluid interface, Observe-Observer <br />
-подходы к проектированию: MVVM, MVP, MVC
+подходы к проектированию: MVVM, MVP
 
 Пробовал свои силы с: PHP, HTML, CSS, JS, MySQL
 

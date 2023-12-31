@@ -4,7 +4,7 @@
 
 Навыки: Kotlin, Java, SQLite, XML
 
-Так же изо всех сил стараюсь изучать <br />
+В разработке соблюдаю
 принципы: SOLID, DRY, KISS <br />
 шаблоны: Builder, Fluid interface, Observe-Observer <br />
 подходы к проектированию: MVVM, MVP
